@@ -1,2 +1,2 @@
-# bootstrap-boilerplate
-Daily Challenge 3
+# Event Landing Page
+Daily Challenge 6
